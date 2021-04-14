@@ -8,6 +8,8 @@ public class TestDebug {
         System.out.println("Hello,"+s+"---"+i);
         System.out.println("---------");
         System.out.println("Bye,"+s+"---"+i);
+
+        System.out.println("hahaha");
     }
 
     public static void main(String[] args) {
