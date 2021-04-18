@@ -9,10 +9,7 @@ public class TestDebug {
         System.out.println("---------");
         System.out.println("Bye,"+s+"---"+i);
 
-
-
-
-        System.out.println("hahaha");
+        System.out.println("aaaaaa");
     }
 
     public static void main(String[] args) {
